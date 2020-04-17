@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<IPConfig>
+<AreaIP>
+  <ID>1</ID>
+  <IP>1 4660 10.0.50.111</IP>
+</AreaIP>
+<AreaIP>
+  <ID>2</ID>
+  <IP>1 4660 10.0.50.112</IP>
+</AreaIP>
+<AreaIP>
+  <ID>3</ID>
+  <IP>1 4660 10.0.50.113</IP>
+</AreaIP>
+<AreaIP>
+  <ID>4</ID>
+  <IP>1 4660 10.0.50.114</IP>
+</AreaIP>
+</IPConfig>
